@@ -3,6 +3,12 @@ Hello
 
 Adding -1
 12312312
+<<<<<<< .mine
+adding another line :) 
+22222222222
+333333333
+444444444||||||| .r5
+adding another line :) =======
 adding another line :) 
 1
 2efef
@@ -10,4 +16,4 @@ adding another line :)
 44efwefew4444444444444
 544444444444444
 5234344444444444444444
-ewfwefew
+ewfwefew>>>>>>> .r8
